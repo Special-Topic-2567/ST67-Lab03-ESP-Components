@@ -83,11 +83,28 @@ void LED_OFF()
     gpio_set_level(5,0);
 }
 ```
-### 2.2 ไฟล์ CMakeLists.txt
+### 2.2 ไฟล์ CMakeLists.txt ใน component LED
 ```
 idf_component_register(SRCS "LED.c"
                     INCLUDE_DIRS "include" 
                     REQUIRES driver)
 ```
-### 2.4 ทดสอบรันโปรแกรม
+
+### 2.4 แก้ไขไฟล์ CMakeLists.txt ใน Main
+
+``` CMake
+# Edit following two lines to set component requirements (see docs)
+set(COMPONENT_REQUIRES driver LED)
+set(COMPONENT_PRIV_REQUIRES )
+
+
+set(COMPONENT_SRCS 
+   "main.c"
+   )
+set(COMPONENT_ADD_INCLUDEDIRS "")
+
+register_component()
+```
+
+### 2.5 ทดสอบรันโปรแกรม
 
