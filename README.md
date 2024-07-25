@@ -57,28 +57,37 @@ void func(void);
 ### 2.1 ไฟล์ LED.h
 
 ```c
-void on(void);
-void off(void);
+void SET_LED_OUTPUT();
+void LED_ON();
+void LED_OFF();
+
 ```
 ### 2.2 ไฟล์ LED.c
 
 ```c
 #include <stdio.h>
 #include "LED.h"
+#include "driver/gpio.h"
 
-#include "esp_log.h"
-
-void on(void)
+void SET_LED_OUTPUT()
 {
-    ESP_LOGI("LED", "LED ON");
+  gpio_set_direction(5, GPIO_MODE_OUTPUT);  
+}
+void LED_ON()
+{
+    gpio_set_level(5,1);
 }
 
-void off(void)
+void LED_OFF()
 {
-    ESP_LOGI("LED", "LED OFF");
+    gpio_set_level(5,0);
 }
-
 ```
-
-### 2.3 ทดสอบรันโปรแกรม
+### 2.2 ไฟล์ CMakeLists.txt
+```
+idf_component_register(SRCS "LED.c"
+                    INCLUDE_DIRS "include" 
+                    REQUIRES driver)
+```
+### 2.4 ทดสอบรันโปรแกรม
 
