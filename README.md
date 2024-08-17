@@ -108,3 +108,43 @@ register_component()
 
 ### 2.5 ทดสอบรันโปรแกรม
 
+#### ลิงค์งาน: https://github.com/AnchisaPhetnoi/ESP32_Blank.git
+
+### LAB_3.1
+
+![image](https://github.com/user-attachments/assets/dda8e6e8-caac-44d3-8199-974e18058ed2)
+![image](https://github.com/user-attachments/assets/30f21e01-5638-42ad-a74a-5589d5cbb70d)
+![image](https://github.com/user-attachments/assets/df6ca4d5-4bf2-49dc-9199-3bc7ab50a820)
+
+![image](https://github.com/user-attachments/assets/8cd03fbd-3541-489e-a5a9-b687aad99004)
+
+![image](https://github.com/user-attachments/assets/c05a7584-72c6-4b9a-88e0-5526acc22874)
+
+![image](https://github.com/user-attachments/assets/1a0d0b18-c772-499e-8d5c-0aa5e9f9f10e)
+
+![image](https://github.com/user-attachments/assets/dbf5c68c-6888-47ac-897a-80d5d04ab78a)
+
+
+### LAB_3.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
