@@ -143,6 +143,34 @@ Leb จะเปิดไฟขึ้นแสดงครึ่งวิ แล
 
 ![image](https://github.com/user-attachments/assets/61bfa16b-77d6-4cf3-9874-c751bb6c7b63)
 
+## LAB_3.3
+
+
+Leb จะเปิดไฟขึ้นแสดงครึ่งวิ และจะปิดไฟดับแสดงครึ่งวิ
+
+#### ผลลัพน์
+![image](https://github.com/user-attachments/assets/cc4e5e6e-66d2-4717-865c-9d3c3e83f4b1)
+![image](https://github.com/user-attachments/assets/b9ecb53e-7883-467d-b1e8-8b5446fac002)
+![image](https://github.com/user-attachments/assets/9e0781e5-9837-46ce-a48c-24ea6d22ddaf)
+
+![image](https://github.com/user-attachments/assets/14e23f95-8778-4500-92c6-dfbdfe632f84)
+![image](https://github.com/user-attachments/assets/b83391ec-7095-468e-8ebf-312f0927b33b)
+
+
+![image](https://github.com/user-attachments/assets/b83785ff-8785-4432-8560-3bc5d1bc5c27)
+
+![image](https://github.com/user-attachments/assets/9c767ff8-c6f7-48bb-b5ce-a38cbae2b2db)
+![image](https://github.com/user-attachments/assets/5611881c-d880-446c-a326-998f92d7380c)
+![image](https://github.com/user-attachments/assets/ac760b1f-e199-495a-aca2-692b631b5a56)
+![image](https://github.com/user-attachments/assets/ba9efcae-05a4-4cbb-b504-b0df83386559)
+
+![image](https://github.com/user-attachments/assets/3420d1ae-0c4e-436b-b1d5-43ec3ea466e1)
+
+
+
+
+
+
 
 
 
