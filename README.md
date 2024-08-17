@@ -110,7 +110,7 @@ register_component()
 
 #### ลิงค์งาน: https://github.com/AnchisaPhetnoi/ESP32_Blank.git
 
-### LAB_3.1
+## LAB_3.1
 
 ![image](https://github.com/user-attachments/assets/dda8e6e8-caac-44d3-8199-974e18058ed2)
 ![image](https://github.com/user-attachments/assets/30f21e01-5638-42ad-a74a-5589d5cbb70d)
@@ -126,7 +126,7 @@ register_component()
 
 
 
-### LAB_3.2
+## LAB_3.2
 
 Leb จะเปิดไฟขึ้นแสดงครึ่งวิ และจะปิดไฟดับแสดงครึ่งวิ
 
