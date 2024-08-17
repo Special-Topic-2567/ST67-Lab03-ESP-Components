@@ -153,7 +153,6 @@ Leb จะเปิดไฟขึ้นแสดงครึ่งวิ แล
 ![image](https://github.com/user-attachments/assets/b9ecb53e-7883-467d-b1e8-8b5446fac002)
 ![image](https://github.com/user-attachments/assets/9e0781e5-9837-46ce-a48c-24ea6d22ddaf)
 
-![image](https://github.com/user-attachments/assets/14e23f95-8778-4500-92c6-dfbdfe632f84)
 ![image](https://github.com/user-attachments/assets/b83391ec-7095-468e-8ebf-312f0927b33b)
 
 
