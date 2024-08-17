@@ -126,17 +126,22 @@ register_component()
 
 
 
+### LAB_3.2
 
+Leb จะเปิดไฟขึ้นแสดงครึ่งวิ และจะปิดไฟดับแสดงครึ่งวิ
 
+![image](https://github.com/user-attachments/assets/59cd758f-4206-47c9-b526-aa32516fc12c)
 
+![image](https://github.com/user-attachments/assets/fffc02a3-4cc4-4e80-95d0-09d0258e05f5)
 
+![image](https://github.com/user-attachments/assets/fdf43eca-d3a3-494e-9013-a524610fb0f5)
 
+#### ผลลัพน์
+![image](https://github.com/user-attachments/assets/48af654a-10dc-4022-97ea-f663d075d664)
 
+![image](https://github.com/user-attachments/assets/41ce5a16-b4c9-41e9-83d7-e97e243e08c3)
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/61bfa16b-77d6-4cf3-9874-c751bb6c7b63)
 
 
 
