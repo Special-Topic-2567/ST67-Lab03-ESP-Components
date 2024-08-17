@@ -125,7 +125,7 @@ register_component()
 ![image](https://github.com/user-attachments/assets/dbf5c68c-6888-47ac-897a-80d5d04ab78a)
 
 
-### LAB_3.2
+
 
 
 
