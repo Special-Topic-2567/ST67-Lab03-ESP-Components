@@ -108,3 +108,6 @@ register_component()
 
 ### 2.5 ทดสอบรันโปรแกรม
 
+https://github.com/likunzz/LED_Test
+
+LEDกระพริกทุกๆ5วื
